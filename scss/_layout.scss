@@ -157,6 +157,9 @@
             &::first-letter {
                 padding-left: 50px
             }
+            @media(max-width: 1600px) {
+                font-size: 18px;
+            }
         }
     }
 }
